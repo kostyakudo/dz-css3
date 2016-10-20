@@ -238,3 +238,8 @@ h3 {
     font-size: 22px;
     padding-top: 15px;
 }
+@media screen and (max-width:840px){
+    .container{
+        width: 100%;
+    }
+}

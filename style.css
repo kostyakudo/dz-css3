@@ -242,4 +242,7 @@ h3 {
     .container{
         width: 100%;
     }
+    .img{
+        width:20px;
+        height:20px;
 }
